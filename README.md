@@ -32,7 +32,7 @@ desenvolvidas pelos times do projeto.
 > A utilização de versões diferentes pode ocasionar
 > no não funcinamento do projeto.
 
-## Installation
+## Instalação
 
 Clonar o projeto:
 
